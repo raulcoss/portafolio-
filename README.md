@@ -29,3 +29,18 @@
 
 ## Projects
 
+#### Energy Efficiency Model / Energy Cost calculation using weather records.
+This project was aimed to determine the energy demands and costs to implement certain energy efficiency strategies in industrial complexes and compare them to the current demands and costs these complexes have.
+
+For this, I gathered raw temperature, humidity and atmospheric pressure data for each hour and day from January 1st, 2022 to December 31st, 2023. Then I completed several complex calculations for engineering purposes. Some of these calculations include enthalpy, cooling tons and kW consumption.
+
+It was also needed to categorize the hour and date based on several criteria (depending on the Mexican electricity comission norms) to ultimately calculate the expected costs of energy consumption.
+
+This data was converted into useful visualizations that allowed the stakeholders to identify the economic benefit.
+
+This was all modelled using R to work with the complex calculations, EXCEL to organize the data and get basic previews with pivot tables and finally POWER BI for the visualization part of the project.
+
+Disclaimer: For privacy reasons I'm not allowed to share the project specifics nor share the raw data. But, I'd be happy to share more specifics about the data analysis process.
+
+
+
