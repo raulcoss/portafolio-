@@ -9,7 +9,7 @@
 - Data Analysis 
   
 ## Work Experience
-**Research Assistant @ Universidad Autónoma de Nuevo León
+#Research Assistant @ Universidad Autónoma de Nuevo León
 - Project 1
 
 ## Projects
