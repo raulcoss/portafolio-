@@ -42,5 +42,16 @@ This was all modelled using R to work with the complex calculations, EXCEL to or
 
 Disclaimer: For privacy reasons I'm not allowed to share the project specifics nor share the raw data. But, I'd be happy to share more specifics about the data analysis process.
 
+#### Athlete Physical Perfomance Assesment Analysis
+We performed several physical performance tests in more than 100 professional athletes from soccer team Tigres F.C. (https://www.tigres.com.mx/es/). More than 20 metrics were used for each athlete. They were also divided in 6 different categories based on age and sex.
+
+I was assigned to create the database and perform the analysis for the stakeholders to make decisions about the athletes training program. 
+
+The dataset was created and manipulated solely with EXCEL. 
+
+Disclaimer: For privacy reasons I'm not allowed to share the project specifics nor share the raw data. But, I'd be happy to share more specifics about the data analysis process.
 
 
+
+#### Published papers
+1. Hernández Prieto, Y., Avendaño Coss, R., García Oceguera, D., & Quintín Fernández, E. (2018). Diferencia en las variables asociadas a la potencia entre jugadores universitarios de fútbol soccer y fútbol rápido. Revista Iberoamericana De Ciencias De La Actividad Física Y El Deporte, 7(2), 61–72. https://doi.org/10.24310/riccafd.2018.v7i2.5090 (https://revistas.uma.es/index.php/riccafd/article/view/5090)
